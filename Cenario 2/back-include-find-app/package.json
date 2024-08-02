@@ -9,7 +9,7 @@
     "dev:migrate": "npx prisma migrate dev",
     "prisma:deploy": "npx prisma migrate deploy"
   },
-  "author": "Fernando Castro",
+  "author": "XXXX",
   "license": "ISC",
   "devDependencies": {
     "@prisma/client": "^5.3.1",
