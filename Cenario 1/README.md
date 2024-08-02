@@ -2,7 +2,7 @@
 
 
 # 📒 Resumo do projeto
-Projeto em andamento, visando a prática com a linguagem JavaScript e Html.
+Projeto visando a prática com a linguagem JavaScript e Html.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
@@ -11,4 +11,4 @@ Projeto em andamento, visando a prática com a linguagem JavaScript e Html.
 -  ``CSS``
 
 ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui]([https://github.com/Hudson390/Calculadora-JS/blob/main).
+Você pode acessar os arquivos do projeto nesta pasta.
