@@ -13,7 +13,7 @@
    "testEnvironment": "jsdom"
 
   },
-  "author": "Hudson Costa",
+  "author": "XXXXXX",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
