@@ -12,8 +12,3 @@ Projeto em andamento, visando a prática com a linguagem JavaScript e Html.
 
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui]([https://github.com/Hudson390/Calculadora-JS/blob/main).
-
-
-<h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
-</h4>
